@@ -17,7 +17,7 @@
   ],
   "author": "lxming",
   "license": "MIT",
-  "homepage": "https://gitee.com/Lxming1/lxm-vue-temp",
+  "homepage": "https://github.com/Lxming1/lxm",
   "dependencies": {
     "commander": "^9.1.0",
     "download-git-repo": "^3.0.2",
